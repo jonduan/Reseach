@@ -1,0 +1,16 @@
+---
+title: "timeTable"
+author: "Jon Duan"
+date: "2016年3月24日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hom many hours working for FAO
+
+March 22. 5 hours
+
+March 24. 5 hours

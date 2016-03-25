@@ -1,0 +1,177 @@
+id,Reporter.Country.Code,Reporter.Countries,region1,region2,Reporter.Region.Code,Partner.Region.Code,Partner.Countries,Partner.Country.Code
+1,9,Argentina,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Argentina,9
+2,12,Bahamas,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Bahamas,12
+3,14,Barbados,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Barbados,14
+4,23,Belize,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Belize,23
+5,19,Bolivia,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Bolivia,19
+6,21,Brazil,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Brazil,21
+7,33,Canada,Americas,Canada,Canada,Canada,Canada,33
+8,40,Chile,Americas,Chile,Chile,Chile,Chile,40
+9,44,Colombia,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Colombia,44
+10,48,Costa Rica,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Costa Rica,48
+11,49,Cuba,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Cuba,49
+12,55,Dominica,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Dominica,55
+13,56,Dominican Rep,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Dominican Rep,56
+14,58,Ecuador,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Ecuador,58
+15,60,El Salvador,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,El Salvador,60
+16,89,Guatemala,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Guatemala,89
+17,91,Guyana,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Guyana,91
+18,93,Haiti,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Haiti,93
+19,95,Honduras,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Honduras,95
+20,109,Jamaica,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Jamaica,109
+21,138,Mexico,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Mexico,138
+22,151,Netherlands Antilles,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Netherlands Antilles,151
+23,157,Nicaragua,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Nicaragua,157
+24,166,Panama,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Panama,166
+25,169,Paraguay,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Paraguay,169
+26,170,Peru,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Peru,170
+27,191,St Vincent & Grenadines,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,St Vincent & Grenadines,191
+28,207,Suriname,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Suriname,207
+29,220,Trinidad & Tobago,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Trinidad & Tobago,220
+30,231,USA,Americas,USA,USA,USA,USA,231
+31,234,Uruguay,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Uruguay,234
+32,236,Venezuela,Americas,Rest.of.Americas,Rest.of.Americas,Rest.of.Americas,Venezuela,236
+33,3,Albania,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Albania,3
+34,11,Austria,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Austria,11
+35,57,Belarus,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Belarus,57
+36,255,Belgium,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Belgium,255
+37,15,Luxembourg,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Luxembourg,15
+38,80,Bosnia & Herzegovina,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Bosnia & Herzegovina,80
+39,27,Bulgaria,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Bulgaria,27
+40,98,Croatia,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Croatia,98
+41,167,Czech Republic,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Czech Republic,167
+42,54,Denmark,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Denmark,54
+43,63,Estonia,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Estonia,63
+44,67,Finland,Europe,Finland,Finland,Finland,Finland,67
+45,68,France,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,France,68
+46,79,Germany,Europe,Germany,Germany,Germany,Germany,79
+47,84,Greece,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Greece,84
+48,97,Hungary,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Hungary,97
+49,99,Iceland,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Iceland,99
+50,104,Ireland,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Ireland,104
+51,106,Italy,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Italy,106
+52,119,Latvia,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Latvia,119
+53,119,Latvia,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Latvia,119
+54,126,Lithuania,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Lithuania,126
+55,256,Luxembourg,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Luxembourg,256
+56,134,Malta,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Malta,134
+57,150,Netherlands,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Netherlands,150
+58,162,Norway,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Norway,162
+59,173,Poland,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Poland,173
+60,174,Portugal,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Portugal,174
+61,146,Moldova,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Moldova,146
+62,183,Romania,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Romania,183
+63,185,Russia,Europe,Russia,Russia,Russia,Russia,185
+64,186,Serbia & Montenegro,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Serbia & Montenegro,186
+65,199,Slovakia,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Slovakia,199
+66,198,Slovenia,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Slovenia,198
+67,203,Spain,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Spain,203
+68,210,Sweden,Europe,Sweden,Sweden,Sweden,Sweden,210
+69,211,Switzerland,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Switzerland,211
+70,230,Ukraine,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Ukraine,230
+71,229,United Kingdom,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,United Kingdom,229
+72,2,Afghanistan,Asia,ROW,ROW,ROW,Afghanistan,2
+73,1,Armenia,Asia,ROW,ROW,ROW,Armenia,1
+74,52,Azerbaijan,Asia,ROW,ROW,ROW,Azerbaijan,52
+75,13,Bahrain,Asia,ROW,ROW,ROW,Bahrain,13
+76,16,Bangladesh,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Bangladesh,16
+77,18,Bhutan,Asia,ROW,ROW,ROW,Bhutan,18
+78,26,Brunei Darussalam,Asia,ROW,ROW,ROW,Brunei Darussalam,26
+79,115,Cambodia,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Cambodia,115
+80,351,China,Asia,China,China,China,China,351
+81,50,Cyprus,Europe,Rest.of.Europe,Rest.of.Europe,Rest.of.Europe,Cyprus,50
+82,116,North Korea,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,North Korea,116
+83,73,Georgia,Asia,ROW,ROW,ROW,Georgia,73
+84,100,India,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,India,100
+85,101,Indonesia,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Indonesia,101
+86,102,Iran,Asia,ROW,ROW,ROW,Iran,102
+87,103,Iraq,Asia,ROW,ROW,ROW,Iraq,103
+88,105,Israel,Asia,ROW,ROW,ROW,Israel,105
+89,110,Japan,Asia,Japan,Japan,Japan,Japan,110
+90,112,Jordan,Asia,ROW,ROW,ROW,Jordan,112
+91,108,Kazakhstan,Asia,ROW,ROW,ROW,Kazakhstan,108
+92,118,Kuwait,Asia,ROW,ROW,ROW,Kuwait,118
+93,113,Kyrgyzstan,Asia,ROW,ROW,ROW,Kyrgyzstan,113
+94,120,Laos,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Laos,120
+95,121,Lebanon,Asia,ROW,ROW,ROW,Lebanon,121
+96,131,Malaysia,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Malaysia,131
+97,141,Mongolia,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Mongolia,141
+98,28,Myanmar,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Myanmar,28
+99,149,Nepal,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Nepal,149
+100,221,Oman,Asia,ROW,ROW,ROW,Oman,221
+101,165,Pakistan,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Pakistan,165
+102,171,Philippines,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Philippines,171
+103,179,Qatar,Asia,ROW,ROW,ROW,Qatar,179
+104,117,Korea,Asia,Korea,Korea,Korea,Korea,117
+105,194,Saudi Arabia,Asia,ROW,ROW,ROW,Saudi Arabia,194
+106,200,Singapore,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Singapore,200
+107,38,Sri Lanka,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Sri Lanka,38
+108,212,Syria,Asia,ROW,ROW,ROW,Syria,212
+109,208,Tajikistan,Asia,ROW,ROW,ROW,Tajikistan,208
+110,216,Thailand,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Thailand,216
+111,176,Timor-Leste,Asia,ROW,ROW,ROW,Timor-Leste,176
+112,223,Turkey,Asia,ROW,ROW,ROW,Turkey,223
+113,213,Turkmenistan,Asia,ROW,ROW,ROW,Turkmenistan,213
+114,225,United Arab Emirates,Asia,ROW,ROW,ROW,United Arab Emirates,225
+115,235,Uzbekistan,Asia,ROW,ROW,ROW,Uzbekistan,235
+116,237,Viet Nam,Asia,Rest.of.Asia,Rest.of.Asia,Rest.of.Asia,Viet Nam,237
+117,249,Yemen,Asia,ROW,ROW,ROW,Yemen,249
+118,10,Australia,Ocieania,Australia,Australia,Australia,Australia,10
+119,66,Fiji,Ocieania,ROW,ROW,ROW,Fiji,66
+120,70,French Polynesia,Ocieania,ROW,ROW,ROW,French Polynesia,70
+121,153,New Caledonia,Ocieania,ROW,ROW,ROW,New Caledonia,153
+122,156,New Zealand,Ocieania,New Zealand,New Zealand,New Zealand,New Zealand,156
+123,168,Papua New Guinea,Ocieania,ROW,ROW,ROW,Papua New Guinea,168
+124,244,Samoa,Ocieania,ROW,ROW,ROW,Samoa,244
+125,25,Solomon Islands,Ocieania,ROW,ROW,ROW,Solomon Islands,25
+126,219,Tonga,Ocieania,ROW,ROW,ROW,Tonga,219
+127,155,Vanuatu,Ocieania,ROW,ROW,ROW,Vanuatu,155
+128,4,Algeria,Africa,Africa,Africa,Africa,Algeria,4
+129,7,Angola,Africa,Africa,Africa,Africa,Angola,7
+130,53,Benin,Africa,Africa,Africa,Africa,Benin,53
+131,233,Burkina Faso,Africa,Africa,Africa,Africa,Burkina Faso,233
+132,29,Burundi,Africa,Africa,Africa,Africa,Burundi,29
+133,35,Cabo Verde,Africa,Africa,Africa,Africa,Cabo Verde,35
+134,32,Cameroon,Africa,Africa,Africa,Africa,Cameroon,32
+135,37,Central African Republic,Africa,Africa,Africa,Africa,Central African Republic,37
+136,39,Chad,Africa,Africa,Africa,Africa,Chad,39
+137,46,Congo,Africa,Africa,Africa,Africa,Congo,46
+138,107,Côte d'Ivoire,Africa,Africa,Africa,Africa,Côte d'Ivoire,107
+139,250,Democratic Republic of the Congo,Africa,Africa,Africa,Africa,Democratic Republic of the Congo,250
+140,72,Djibouti,Africa,Africa,Africa,Africa,Djibouti,72
+141,59,Egypt,Africa,Africa,Africa,Africa,Egypt,59
+142,61,Equatorial Guinea,Africa,Africa,Africa,Africa,Equatorial Guinea,61
+143,178,Eritrea,Africa,Africa,Africa,Africa,Eritrea,178
+144,238,Ethiopia,Africa,Africa,Africa,Africa,Ethiopia,238
+145,74,Gabon,Africa,Africa,Africa,Africa,Gabon,74
+146,75,Gambia,Africa,Africa,Africa,Africa,Gambia,75
+147,81,Ghana,Africa,Africa,Africa,Africa,Ghana,81
+148,90,Guinea,Africa,Africa,Africa,Africa,Guinea,90
+149,175,Guinea-Bissau,Africa,Africa,Africa,Africa,Guinea-Bissau,175
+150,114,Kenya,Africa,Africa,Africa,Africa,Kenya,114
+151,123,Liberia,Africa,Africa,Africa,Africa,Liberia,123
+152,124,Libya,Africa,Africa,Africa,Africa,Libya,124
+153,129,Madagascar,Africa,Africa,Africa,Africa,Madagascar,129
+154,130,Malawi,Africa,Africa,Africa,Africa,Malawi,130
+155,133,Mali,Africa,Africa,Africa,Africa,Mali,133
+156,136,Mauritania,Africa,Africa,Africa,Africa,Mauritania,136
+157,137,Mauritius,Africa,Africa,Africa,Africa,Mauritius,137
+158,143,Morocco,Africa,Africa,Africa,Africa,Morocco,143
+159,144,Mozambique,Africa,Africa,Africa,Africa,Mozambique,144
+160,158,Niger,Africa,Africa,Africa,Africa,Niger,158
+161,159,Nigeria,Africa,Africa,Africa,Africa,Nigeria,159
+162,184,Rwanda,Africa,Africa,Africa,Africa,Rwanda,184
+163,193,Sao Tome & Principe,Africa,Africa,Africa,Africa,Sao Tome & Principe,193
+164,195,Senegal,Africa,Africa,Africa,Africa,Senegal,195
+165,197,Sierra Leone,Africa,Africa,Africa,Africa,Sierra Leone,197
+166,201,Somalia,Africa,Africa,Africa,Africa,Somalia,201
+167,202,South Africa,Africa,Africa,Africa,Africa,South Africa,202
+168,206,Sudan,Africa,Africa,Africa,Africa,Sudan,206
+169,217,Togo,Africa,Africa,Africa,Africa,Togo,217
+170,222,Tunisia,Africa,Africa,Africa,Africa,Tunisia,222
+171,226,Uganda,Africa,Africa,Africa,Africa,Uganda,226
+172,215,Tanzania,Africa,Africa,Africa,Africa,Tanzania,215
+173,251,Zambia,Africa,Africa,Africa,Africa,Zambia,251
+174,181,Zimbabwe,Africa,Africa,Africa,Africa,Zimbabwe,181
+175,252,Unspecified,Unspecified,Unspecified,Unspecified,Unspecified,Unspecified,252
+176,254,Others (adjustment),Others (adjustment),Others (adjustment),Others (adjustment),Others (adjustment),Others (adjustment),254
